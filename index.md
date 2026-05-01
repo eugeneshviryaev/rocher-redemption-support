@@ -37,6 +37,5 @@ https://support.google.com/admob/answer/9012903
 
 ## Credits
 
-Built by Evgeny with help from a small group of teammates who
-weighed in on narrative and design. Character art and music
+Built by Evgeny, Sofia, David and Claude. Character art and music
 generated with Gemini.
